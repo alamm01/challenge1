@@ -19,7 +19,7 @@ The primary goals of this refactoring process were:
 
 ## Screenshot
 
-![Web Page Screenshot](/assets/images/webpage.jpg)
+![Web Page Screenshot](/assets/images/01-html-css-git-homework-demo.png)
 
 
 ## Conclusion
