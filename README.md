@@ -17,7 +17,12 @@ The primary goals of this refactoring process were:
 - Images now include `alt` attributes to improve screen reader accessibility.
 - Introduced the `<figure>` element for better representation of images.
 
-## Screenshot
+## Webiste 
+
+### URL
+https://alamm01.github.io/horiseon-accessibility-refactor/
+
+### Screenshot
 
 ![Web Page Screenshot](/assets/images/01-html-css-git-homework-demo.png)
 
